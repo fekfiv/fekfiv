@@ -1,5 +1,9 @@
-### Hi there 👋
+### What's up?✌ My name is Ivan.
+#### I'm a JavaScript/TypeScript developer 💻
+- 👯 I’m looking to collaborate on frontend developer
+- 📫 How to reach me: 👀 look under the photo
 
+- 😎 My technology stack: JavaScript/TypeScript, React, Redux(±), PostgreSQL, Node, Express. 
 <!--
 **fekfiv/fekfiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
